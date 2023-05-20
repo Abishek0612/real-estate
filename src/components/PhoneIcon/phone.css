@@ -1,0 +1,46 @@
+.icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+  animation: phone-icon-animation 1s infinite alternate;
+}
+
+@keyframes phone-icon-animation {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+.phone-icon__icon {
+  font-size: 50px;
+  color: #ffffff;
+  background-color: blueviolet;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.phone-icon__icon:hover {
+  background: bisque;
+  border: 1px solid black;
+  color: black;
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  .phone-icon {
+    bottom: 10px;
+    right: 10px;
+  }
+
+  .phone-icon__icon {
+    font-size: 30px;
+    padding: 8px;
+  }
+}

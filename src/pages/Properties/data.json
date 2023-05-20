@@ -1,0 +1,114 @@
+
+ [
+      {
+        "id": 1,
+        "type": "sale",
+        "name":"ITC Hotel",
+        "price": 25000,
+        "location": "Bangalore",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "images": ["https://tse1.mm.bing.net/th?id=OIP.dbFNm5ifGMQ-JlDKXnhZ1wHaE8&pid=Api&P=0&h=180"]
+      },
+      {
+        "id": 2,
+        "type": "rent",
+        "name":"Le Royal Meridian Hotel",
+        "price": 2000,
+        "location": "Chennai",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "images": ["https://tse1.mm.bing.net/th?id=OIP.aF56MvViuHqq_1eSdqVrkQHaEX&pid=Api&P=0&h=180"]
+      },
+      {
+        "id": 3,
+        "type": "rent",
+        "name":"Cholla Hotel",
+        "price": 1000,
+        "location": "Mumbai",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "images": ["https://tse4.mm.bing.net/th?id=OIP.LIOd0iReqBQtvKPgsZ7FTAHaE8&pid=Api&P=0&h=180"]
+      },
+      {
+        "id": 4,
+        "type": "rent",
+        "name":"Abc Hotel",
+        "price": 2000,
+        "location": "Mumbai",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "images": ["https://tse4.mm.bing.net/th?id=OIP.1l_nmUzT7wU4pBaMhaGQCQHaFj&pid=Api&P=0&h=180g"]
+      },
+      {
+        "id": 5,
+        "type": "rent",
+        "name":"Rain tree Hotel",
+        "price": 2000,
+        "location": "Chennai",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "images": ["https://tse1.mm.bing.net/th?id=OIP.aF56MvViuHqq_1eSdqVrkQHaEX&pid=Api&P=0&h=180"]
+      },
+      {
+        "id": 6,
+        "type": "rent",
+        "name":"Tova Hotel",
+        "price": 3000,
+        "location": "Bangalore",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "images": ["https://tse1.mm.bing.net/th?id=OIP.EcK9Mh5bor2L9UAELmd38wHaE8&pid=Api&P=0&h=180"]
+      },
+      {
+        "id": 7,
+        "type": "rent",
+        "name":"Somerset Hotel",
+        "price": 2000,
+        "location": "Chennai",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "images": ["https://tse1.mm.bing.net/th?id=OIP.dbFNm5ifGMQ-JlDKXnhZ1wHaE8&pid=Api&P=0&h=180"]
+      },
+      {
+        "id": 8,
+        "type": "sale",
+        "name":"RainFall Hotel",
+        "price": 10000,
+        "location": "Bangalore",
+        "bedrooms": 3,
+        "bathrooms": 1,
+        "images": ["https://tse4.mm.bing.net/th?id=OIP.LIOd0iReqBQtvKPgsZ7FTAHaE8&pid=Api&P=0&h=180"]
+      },
+      {
+        "id": 9,
+        "type": "rent",
+        "name":"  Sheraton Hotel",
+        "price": 2000,
+        "location": "Mumbai",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "images": ["https://tse1.mm.bing.net/th?id=OIP.aF56MvViuHqq_1eSdqVrkQHaEX&pid=Api&P=0&h=180"]
+      },
+      {
+        "id": 10,
+        "type": "rent",
+        "name":"IBIS Hotel",
+        "price": 2000,
+        "location": "Mumbai",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "images": ["https://tse4.mm.bing.net/th?id=OIP.1l_nmUzT7wU4pBaMhaGQCQHaFj&pid=Api&P=0&h=180g"]
+      },
+      {
+        "id": 11,
+        "type": "rent",
+        "name":"Lemon Tree Hotel",
+        "price": 1000,
+        "location": "Chennai",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "images": ["https://tse1.mm.bing.net/th?id=OIP.aF56MvViuHqq_1eSdqVrkQHaEX&pid=Api&P=0&h=180"]
+      }
+    ]
+  

@@ -1,0 +1,31 @@
+.banner {
+  top: 0;
+  margin-bottom: 60px;
+  
+  .banner__container {
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+
+    .banner__left {
+      display: flex;
+      gap: 40px;
+    margin-top: 70px;
+
+    }
+    .banner__right {
+      width: 50vw;
+
+      h3 {
+        color: black;
+      }
+      p {
+        color: black;
+        font-size: 18px;
+      }
+    }
+  }
+}
